@@ -1,0 +1,11 @@
+name: TNT-Bow
+version: '${project.version}'
+main: de.pandaxpaul.tntbow.TNTBow
+api-version: 1.19
+authors: [ PandaxPaul ]
+description: TNT Bow :D
+website: https://pandaxpaul.de
+
+commands:
+  tntBow:
+    permission: tntbow.command.tntbow
